@@ -6,7 +6,7 @@ print(list1)
 
 list2 = [valor+10 for valor in range(5)]
 print (list2)
-############################
+#############################
 
 ## O código pega os valores de 1 até 30 e mostra os que são divisiveis por 4, os dois tem a mesma função.
 
